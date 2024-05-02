@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/HakeemY">
-    <div src="https://github.com/HakeemY/HakeemY/assets/152512842/59a2aa1a-c12f-4dd5-bab2-fb00c9775435" alt="Hakeem Alabi"(💻☕)/></a>
+    <a src="https://github.com/HakeemY/HakeemY/assets/152512842/59a2aa1a-c12f-4dd5-bab2-fb00c9775435" alt="Hakeem Alabi"(💻☕)/></a>
 </p>
 
 

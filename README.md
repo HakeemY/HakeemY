@@ -1,6 +1,6 @@
-<h2 align="center">
-  #  Hakeem Alabi 💻☕
-</h2>
+<h1 align="center">
+   Hakeem Alabi 💻 ☕
+</h1>
 
 <p align="center">
   <a href="https://github.com/HakeemY">

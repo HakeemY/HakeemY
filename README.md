@@ -1,10 +1,9 @@
-<p align="center">
-<h1>
+<h1 align="center">
 <a href="https://github.com/HakeemY"> Hakeem Alabi 💻 ☕ </a>
 </h1>
 
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=61BF3A&random=false&width=435&lines=Full-stack+and+developer;I+like+to+be+creative;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=61BF3A&random=false&width=435&lines=Full-stack+and+developer;I+like+to+be+creative;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->

@@ -3,12 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/HakeemY">
-    <a src="https://github.com/HakeemY/HakeemY/assets/152512842/59a2aa1a-c12f-4dd5-bab2-fb00c9775435" alt="Hakeem Alabi"(💻☕)/></a>
-</p>
-
-
-<p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=61BF3A&random=false&width=435&lines=Full-stack+and+developer;I+like+to+be+creative;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
